@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [20.4.2](https://github.com/conventional-changelog/commitlint/compare/v20.4.1...v20.4.2) (2026-02-19)
+
+
+### Bug Fixes
+
+* **config-nx-scopes:** add unique names to fixture projects ([#4622](https://github.com/conventional-changelog/commitlint/issues/4622)) ([5635cf0](https://github.com/conventional-changelog/commitlint/commit/5635cf0ab885005aa56f2917b9db5e9c2259722d))
+* **rules:** ignore cherry-picks in signed-off-by ([#4625](https://github.com/conventional-changelog/commitlint/issues/4625)) ([691a52d](https://github.com/conventional-changelog/commitlint/commit/691a52d4b0ba2ad8cd5a33f7fa35a901ca861009))
+
+
+
+
+
 ## [20.4.1](https://github.com/conventional-changelog/commitlint/compare/v20.4.0...v20.4.1) (2026-02-02)
 
 

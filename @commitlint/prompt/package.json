@@ -1,7 +1,7 @@
 {
   "name": "@commitlint/prompt",
   "type": "module",
-  "version": "20.4.1",
+  "version": "20.4.2",
   "description": "commitizen prompt using commitlint.config.js",
   "main": "./lib/index.js",
   "files": [
@@ -38,7 +38,7 @@
     "node": ">=v18"
   },
   "devDependencies": {
-    "@commitlint/config-angular": "^20.4.1",
+    "@commitlint/config-angular": "^20.4.2",
     "@commitlint/types": "^14.0.0",
     "@commitlint/utils": "^20.0.0",
     "@types/inquirer": "^9.0.7",

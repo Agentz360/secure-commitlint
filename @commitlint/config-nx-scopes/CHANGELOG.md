@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [20.4.2](https://github.com/conventional-changelog/commitlint/compare/v20.4.1...v20.4.2) (2026-02-19)
+
+
+### Bug Fixes
+
+* **config-nx-scopes:** add unique names to fixture projects ([#4622](https://github.com/conventional-changelog/commitlint/issues/4622)) ([5635cf0](https://github.com/conventional-changelog/commitlint/commit/5635cf0ab885005aa56f2917b9db5e9c2259722d))
+
+
+
+
+
 # [20.4.0](https://github.com/conventional-changelog/commitlint/compare/v20.3.1...v20.4.0) (2026-01-30)
 
 **Note:** Version bump only for package @commitlint/config-nx-scopes
